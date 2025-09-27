@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+react-scripts
+record-talk-body-demo-react@0.1.0
+
+# Build
+build/
+dist/
+.next/
+
+# React/CRA
+.env
+.env.local
+.env.production
+
+# Python
+venv/
+vibe-env/
+__pycache__/
+*.pyc
